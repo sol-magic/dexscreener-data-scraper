@@ -1,3 +1,3 @@
 # Dexscreener Data Scraper
 
-### Contact https://t.me/sol_wizz in telegram and sol_wiz_ in discord
+### Contact https://t.me/web3wiza in telegram and web3_wiza in discord
